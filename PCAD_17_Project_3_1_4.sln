@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCAD_17_Project_3_1_4", "PCAD_17_Project_3_1_4.csproj", "{ADC33A88-508D-4B20-906A-5898D53A9C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC33A88-508D-4B20-906A-5898D53A9C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC33A88-508D-4B20-906A-5898D53A9C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC33A88-508D-4B20-906A-5898D53A9C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC33A88-508D-4B20-906A-5898D53A9C02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FB8E825-5AF0-43E9-BFED-570BD651AC7E}
+	EndGlobalSection
+EndGlobal
